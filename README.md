@@ -1,5 +1,4 @@
-# youtubeclone
-Clone Youtube Website Project 
+QUESTIONS MIGHT OCCURS IN THIS PROJECT
 
 # Have error in installing npm
 Step 1: Simply , Uninstall the bcrypt package by using command :
