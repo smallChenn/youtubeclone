@@ -1,6 +1,6 @@
 QUESTIONS MIGHT OCCURS IN THIS PROJECT
 
-# Have error in installing npm
+1. Have error in installing npm
 Step 1: Simply , Uninstall the bcrypt package by using command :
 npm uninstall bcrypt
 Step 2: Then ReInstall it
